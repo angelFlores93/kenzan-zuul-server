@@ -15,8 +15,8 @@ mvn clean spring-boot:run
 #kenzan-zuul-server
 mvn clean spring-boot:run
 
-Download the postman requests attatched into employee-service and import them
-Run the collection 
+Download the postman requests: https://www.getpostman.com/collections/f78e965e3d6cb24b7b34
+Run the endpoints
 
 #Annotations
 
